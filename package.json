@@ -1,0 +1,23 @@
+{
+  "name": "@alu0100973914/colorcell-oop-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for @alu0100973914/oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "npm",
+    "packages",
+    "test"
+  ],
+  "author": "Daute Rodríguez Rodríguez <alu0100973914@ull.edu.es> (https://github.com/alu0100973914)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ULL-ESIT-PL-1718/alu0100973914-ColorCell-oop-plugin.git"
+  },
+  "dependencies": {
+    "@alu0100973914/oop": "^1.0.9",
+    "chalk": "latest"
+  }
+}
